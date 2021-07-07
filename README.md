@@ -44,5 +44,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 **Summary:**
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+I recommend using the Easy Ensemble Classifier. It has the highest balanced accuracy score, the highest precision scores, and the highest sensitivity scores of all the models.
+
+
